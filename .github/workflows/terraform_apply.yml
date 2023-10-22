@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       AWS_REGION:
-        description: "Region required"
-          required: true
+        description: 'Region required'
+        required: true
       
 
 # env:
